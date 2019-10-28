@@ -84,4 +84,6 @@ var bob = { name: "Bob" };
 setTimeout(alice.sayHi.bind(alice), 1000);
 
 
-// Q7 => D. DRY
+// Q7 => D. DRY.
+
+//comment
